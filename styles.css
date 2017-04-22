@@ -15,7 +15,7 @@ button {
 
 #navbar {
   position: fixed;
-  height: 150px;
+  height: 250px;
   width: 100%;
   left: 0%;
   background-color: #4E4D4A;
@@ -28,8 +28,47 @@ button {
   background-color: #F8A13F;
   top: 0;
   width: 100%;
-  height: 50px;
+  height: 45px;
   line-height: 0px;
   border: solid 2px;
   border-color: yellow;
+}
+
+#middle {
+  position: absolute;
+  top: 35%;
+  width: 100%;
+}
+
+#item1 {
+  position: relative;
+  background-color: #bdbdbd;
+  height: 64px;
+  width: 64px;
+  left: 10%;
+  border: solid 1px;
+  border-color: white;
+  border-radius: 10px;
+}
+
+#combo {
+  position: relative;
+  background-color: #bdbdbd;
+  height: 64px;
+  width: 64px;
+  left: 37.5%;
+  border: solid 1px;
+  border-color: white;
+  border-radius: 10px;
+}
+
+#item2 {
+  position: relative;
+  background-color: #bdbdbd;
+  height: 64px;
+  width: 64px;
+  left: 65%;
+  border: solid 1px;
+  border-color: white;
+  border-radius: 10px;
 }
