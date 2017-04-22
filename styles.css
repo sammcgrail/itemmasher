@@ -3,6 +3,7 @@ body {
   width: 90%;
   left: 5%;
   background-color: black;
+  margin-bottom: 250px;
 }
 button {
   height: 64px;
